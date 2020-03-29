@@ -13,9 +13,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Python and the following modules are necessary to run the notebook correctly: numpy, matplotlib and pandas. 
+Python and the following modules are necessary to run the notebook correctly: numpy, matplotlib, pandas, freesound and essentia. 
 
-You can install the modules required simply typing on the terminal the following command: 
+You can install the modules required (excpet from essentia and freesound) simply typing on the terminal the following command: 
 
 ```
 $ pip install -r requirements.txt
@@ -41,6 +41,14 @@ In Windows the user can refer to this link to install python on your local machi
 ```
 $ pip install pandas numpy matplotlib 
 ```
+
+#### Installing Freesound
+
+Plase, refer to this link to install Freesound-python: https://github.com/MTG/freesound-python
+
+#### Installing Essentia
+
+Plase, refer to this link to install Essentia library: https://essentia.upf.edu/installing.html
 
 ### Clone or Download the repository 
 
