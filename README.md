@@ -58,7 +58,7 @@ It contains a jupyter notebook, please read Jupyter Notebook instruction to prop
 
 Command to clone the repository:
 ```
-$ git clone https://github.com/RonFrancesca/makam_research.git
+$ git clone https://github.com/RonFrancesca/AudioMosaicing-Freesound-Essentia.git
 ```
 
 ### Jupyter Notebook instructions
