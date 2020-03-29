@@ -24,7 +24,7 @@ $ pip install -r requirements.txt
 ```
 (the file requiremennts.txt is in the repository)
 
-Otherwise, you can manually install the single modules with the following commands: 
+Otherwise, you can manually install the single modules with the following commands. 
 
 In Ubuntu the user can install all these modules it is as simple as typing on the terminal:
 ```
