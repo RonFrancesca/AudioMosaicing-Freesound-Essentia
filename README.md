@@ -71,6 +71,10 @@ $ jupyter notebook
 
 Follow instructions appearing in the console regarding navigating your browser to the notebook
 
+### Target sound link
+
+The target sound used for this project could be downloaded here: https://freesound.org/search/?q=180053
+
 
 # License
 This project is licensed under a Creative Commons Attribution 4.0 International License (CC BY4.0). 
