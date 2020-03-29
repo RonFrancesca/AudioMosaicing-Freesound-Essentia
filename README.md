@@ -6,6 +6,8 @@ and Essentia library [2] analysis in order to create a creative application: Aud
 [1]: https://freesound.org/
 [2]: https://essentia.upf.edu/
 
+TheAudio  Mosaicing technique  aims  to  reconstruct  a  target  audio  usingframes of a source audio. The reconstructed sound uses frames from the source preserving characteristic of the target sound.
+
 
 ## Getting Started
 
