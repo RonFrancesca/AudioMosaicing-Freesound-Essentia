@@ -6,7 +6,7 @@ and Essentia library [2] analysis in order to create a creative application: Aud
 [1]: https://freesound.org/
 [2]: https://essentia.upf.edu/
 
-TheAudio  Mosaicing technique  aims  to  reconstruct  a  target  audio  usingframes of a source audio. The reconstructed sound uses frames from the source preserving characteristic of the target sound.
+The Audio  Mosaicing technique aims to reconstruct a  target audio using frames of a source audio. The reconstructed sound uses frames from the source preserving characteristic of the target sound.
 
 
 ## Getting Started
@@ -18,7 +18,6 @@ These instructions will get you a copy of the project up and running on your loc
 Python and the following modules are necessary to run the notebook correctly: numpy, matplotlib, pandas, freesound and essentia. 
 
 You can install the modules required (excpet from essentia and freesound) simply typing on the terminal the following command: 
-
 ```
 $ pip install -r requirements.txt
 ```
