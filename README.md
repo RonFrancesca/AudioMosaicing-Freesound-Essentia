@@ -91,7 +91,7 @@ When all the modules are installed and the target file downloaded and saved in t
 - Analyze source collection and target file
 - Reconstruct target file with source collection frames
 
-Run as many time as you want to find the sound you like the most, the results will be randomized every time! 
+Run it as many times as you want to find the sound that you like the most, the results will be randomized every time! 
 
 # License
 This project is licensed under a Creative Commons Attribution 4.0 International License (CC BY4.0). 
