@@ -75,7 +75,7 @@ Follow instructions appearing in the console regarding navigating your browser t
 ### Target sound link
 
 The target sound used for this project could be downloaded here: https://freesound.org/search/?q=180053. 
-After downloading the sound, save in in the same folder of the jupyter notebook to currently run the project. 
+After downloading the sound, save in in the same folder where the jupyter notebooks are saved to currently run the project. 
 
 
 # License
