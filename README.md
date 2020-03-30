@@ -77,6 +77,14 @@ Follow instructions appearing in the console regarding navigating your browser t
 The target sound used for this project could be downloaded here: https://freesound.org/search/?q=180053. 
 After downloading the sound, save in in the same folder where the jupyter notebooks are saved to currently run the project. 
 
+### Run the code
+
+When all the modules are installed and the target file downloaded and saved in the right folder, run them in sequence. 
+1 - Create source sounds collection 
+2 - Analyze source collection and target file
+3 - Reconstruct target file with source collection frames
+
+Run as many time as you want to find the sound you like the most, the results will be randomized every time! 
 
 # License
 This project is licensed under a Creative Commons Attribution 4.0 International License (CC BY4.0). 
