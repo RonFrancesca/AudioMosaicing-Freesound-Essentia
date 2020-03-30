@@ -8,7 +8,7 @@ and Essentia library [2] analysis in order to create a creative application: Aud
 
 The Audio  Mosaicing technique aims to reconstruct a target audio using frames of a source audio. The reconstructed sound uses frames from the source preserving characteristic of the target sound.
 
-In particular, in this project the target sound will be recostructed using a collection of sounds downloaded from Freesound using thr Freesound API. The frames used to recostructed the target sound will be selected according to some particular features analyzed using Essentia library. 
+In particular, in this project the target sound will be recostructed using a collection of sounds downloaded from Freesound using the Freesound API. The frames used to recostructed the target sound will be selected according to some particular features analyzed using Essentia library. 
 
 The project has been divided in three main steps:
 - Creation of sounds source collection.
