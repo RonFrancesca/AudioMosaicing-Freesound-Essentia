@@ -80,9 +80,9 @@ After downloading the sound, save in in the same folder where the jupyter notebo
 ## Run the code
 
 When all the modules are installed and the target file downloaded and saved in the right folder, run them in sequence. 
-1 - Create source sounds collection 
-2 - Analyze source collection and target file
-3 - Reconstruct target file with source collection frames
+- Create source sounds collection 
+- Analyze source collection and target file
+- Reconstruct target file with source collection frames
 
 Run as many time as you want to find the sound you like the most, the results will be randomized every time! 
 
