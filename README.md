@@ -86,12 +86,17 @@ After downloading the sound, save in in the same folder where the jupyter notebo
 
 ## Run the code
 
+Read carefully the instruction the jupyter notebook to set folder path and variable properly. 
+Please consider that you should make a Freesound account and get your own key to run the code, which need to be set in the first jupyter notebook (Create a sound collection). 
+You can get a key here: https://freesound.org/apiv2/apply/. 
+
 When all the modules are installed and the target file downloaded and saved in the right folder, run them in sequence. 
 - Create source sounds collection 
 - Analyze source collection and target file
 - Reconstruct target file with source collection frames
 
 Run it as many times as you want to find the sound that you like the most, the results will be randomized every time! 
+
 
 # License
 This project is licensed under a Creative Commons Attribution 4.0 International License (CC BY4.0). 
