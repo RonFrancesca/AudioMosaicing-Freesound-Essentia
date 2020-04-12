@@ -32,19 +32,19 @@ $ pip install -r requirements.txt
 
 Otherwise, you can manually install the single modules with the following commands. 
 
-In Ubuntu the user can install all these modules it is as simple as typing on the terminal:
+In **Ubuntu** the user can install all these modules it is as simple as typing on the terminal:
 ```
 $ sudo apt-get install python-dev python-numpy python-matplotlib python-pandas
 ```
 
-In OSX the user can install these modules by typing on the terminal:
+In **OSX** the user can install these modules by typing on the terminal:
 
 ```
 $ brew install python
 $ pip install numpy matplotlib pandas
 ````
 
-In Windows the user can refer to this link to install python on your local machine: https://docs.python.org/3/using/windows.html and install the other modules by typing on the terminal: 
+In **Windows** the user can refer to this link to install python on your local machine: https://docs.python.org/3/using/windows.html and install the other modules by typing on the terminal: 
 
 ```
 $ pip install pandas numpy matplotlib 
@@ -77,7 +77,7 @@ Start up jupyter notebook
 $ jupyter notebook
 ```
 
-Follow instructions appearing in the console regarding navigating your browser to the notebook
+Follow the instructions appearing in the console regarding navigating your browser to the notebook
 
 ### Target sound link
 
@@ -95,8 +95,7 @@ When all the modules are installed and the target file downloaded and saved in t
 - Analyze source collection and target file
 - Reconstruct target file with source collection frames
 
-Run it as many times as you want to find the sound that you like the most, the results will be randomized every time! 
-
+Run it as many times as you want to find the sound that you like the most, the results will be randomized every time. 
 
 # License
 This project is licensed under a Creative Commons Attribution 4.0 International License (CC BY4.0). 
